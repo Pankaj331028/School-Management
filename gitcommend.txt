@@ -1,0 +1,14 @@
+1.git clone https://github.com/Pankaj331028/School-Management.git
+2.cd .\School-Management\
+3.git fetch  // other branch use
+4. git fetch --all
+5. git branch //current branch check karta ha
+6. git branch --all //all branch
+7. git branch pankaj-dev //new breanch create
+8.git branch --all
+9.git checkout pankaj-dev //move on onther branch
+10. git add . //code add and files
+11. git status // check which file changes in code
+12.git commit -m "My Scond Project" //commit the project and code
+13.  git pull origin pankaj-dev // take other change in code
+14. git push origin pankaj-dev  //we puch the change code and write code
