@@ -1,0 +1,268 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 30px;
+  }
+
+.header{
+    width: 100%;
+    padding: 15px;
+    float: left;
+    border: 1px solid black;
+}
+.studentr{
+    margin: 30px 0 10px 400px;
+}
+.Allfields{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.basicunder{
+    margin-bottom: 20px;
+}
+.main{
+    width: 85%;
+    float: left;
+    
+}
+.Basic{
+    display: flex;
+    width: 100%;
+    float: left;
+    justify-content: space-between;
+}
+.District{
+    display: flex;
+    gap: 300px;
+}
+
+.first {
+    width: 84%;
+  }
+ 
+.d{
+   width: 60%;
+   height: 28px;
+   margin-left: 40px;
+   margin-bottom: 10px;
+}
+.t{
+    width: 60%;
+   height: 28px;
+   margin-left: 48px;
+   margin-bottom: 10px;
+}
+.b{
+    width: 60%;
+   height: 28px;
+   margin-left: 54px;
+   margin-bottom: 10px;
+}
+.v{
+    width: 60%;
+   height: 28px;
+   margin-left: 7px;
+   margin-bottom: 10px;
+}
+.p{
+    width: 100%;
+   height: 28px;
+   margin-left: -38px;
+   margin-right: 19px;
+   margin-bottom: 10px;
+}
+.candidate{
+    display: flex;
+    
+    margin-top: 10px;
+}
+.c {
+    width: 69%;
+    height: 28px;
+    margin-left: 288px;
+    margin-bottom: 10px;
+  }
+.m{
+    width: 69%;
+    height: 28px;
+    margin-left: 299px;
+    margin-bottom: 10px;
+}
+.f{
+    width: 69%;
+    height: 28px;
+    margin-left: 303px;
+    margin-bottom: 10px;
+}
+.occupation{
+    display: flex;
+    width: 100%;
+    float: left;
+}
+.pin{
+    display: flex;
+    margin-top: 20px;
+}
+.occupfirst {
+    width: 80%;
+    float: left;
+  }
+  .relig {
+    width: 50%;
+    float: left;
+  }
+  .o {
+    width: 35%;
+    height: 28px;
+    margin-left: 318px;
+  }
+  .pi {
+    width: 35%;
+    height: 28px;
+    margin-left: 331px;
+  }
+  .r {
+   
+    height: 28px;
+    margin-left: 155px;
+    width: 55%;
+  }
+  .mo {
+    height: 28px;
+    margin-left: 163px;
+    width: 55%;
+  }
+  .digitAdhar {
+    display: flex;
+    width: 100%;
+    float: left;
+    margin: 20px 0;
+  }
+  .digit {
+    height: 28px;
+    width: 69%;
+    margin-left: 273px;
+  }
+  .Attach {
+    display: flex;
+    width: 100%;
+    float: left;
+  }
+  .data {
+    display: flex;
+    width: 65%;
+    float: left;
+  }
+  .datae{
+    display: flex;
+    width: 40%;
+    float: left;
+  }
+  .at {
+    height: 28px;
+    width: 34%;
+    margin-left: 297px;
+  }
+  .da {
+    height: 28px;
+    width: 55%;
+    margin-left: 130px;
+  }
+  .cast {
+    display: flex;
+    width: 100%;
+    float: left;
+    margin: 20px 0;
+  }
+  .community {
+    display: flex;
+    width: 40%;
+  }
+  .general {
+    display: flex;
+    width: 35%;
+  }
+  .asha {
+    display: flex;
+  }
+
+  .com {
+    width: 15%;
+    height: 28px;
+    margin-left: 247px;
+  }
+  .gen {
+    margin-left: 27px;
+  }
+  .aww {
+    margin-left: 65px;
+    width: 62%;
+  }
+  .different {
+    display: flex;
+    width: 100%;
+    float: left;
+  }
+  .abled {
+    display: flex;
+    width: 50%;
+  }
+  .dif {
+    margin-left: 248px;
+    height: 28px;
+  }
+  .cand {
+    width: 52%;
+    height: 28px;
+    margin-left: 114px;
+  }
+  .nameofin {
+    width: 100%;
+    float: left;
+  }
+  .nameo {
+    width: 68.6%;
+    margin-left: 396px;
+    height: 28px;
+  }
+  .family {
+    margin: 20px 0;
+  }
+  table th{
+    padding: 10px;
+  }
+  table td{
+    padding: 10px;
+  }
+  table{
+    border-collapse: collapse;
+  }
+  .photo{
+    display: flex;
+    width: 100%;
+    float: left;
+    margin: 10px 0;
+  }
+  .uppho {
+    border: 1px solid black;
+    height: 30px;
+    margin-left: 50px;
+  }
+input{
+    border: none;
+    border: 1px solid #74ceeb;
+}
+.secondimg input {
+    height: 180px;
+  }
+  button {
+    text-align: center;
+    margin-left: 685px;
+    width: 18%;
+    height: 30px;
+    margin-top: 13px;
+  }

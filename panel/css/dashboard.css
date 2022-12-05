@@ -1,0 +1,202 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.header{
+    width: 100%;
+    float: left;
+    display: flex;
+}
+.onesection{
+    width: 15%;
+    float: left;
+    background-color: black;
+    height: 100vh;
+    position: fixed;
+    overflow: scroll;
+}
+.secondsection{
+    width: 85%;
+    float: left;
+    background-color: #eff0f4;
+    margin-left: 15%;
+    
+}
+.Sufee{
+    color: white;
+   text-align: center;
+  
+    
+}
+.Sufee p{
+    margin: 15px 0px 15px 0;
+    font-size: 20px;
+}
+hr{
+    margin: 0px 10px 0 10px;
+    color: #6b7076;
+   
+}
+.Dasbored{
+    display: flex;
+    margin: 10px 0px 10px 12px;
+    gap: 34px;
+    color: #6b7076;
+}
+.ui{
+ margin: 20px 0px 15px 12px;
+ color: #6b7076;
+}
+.components{
+    display: flex;
+    margin: 25px 0px 30px 12px;
+    gap: 34px;
+    color: #6b7076;
+}
+#less{
+    margin-left: 44px;
+}
+#lessa{
+    margin-left: 52px;
+}
+#lessaa{
+    margin-left: 49px;
+}
+.Search{
+    display: flex;
+    width: 100%;
+    float: left;
+    background-color: white;
+    padding: 15px;
+    margin-bottom: 3px;
+    box-shadow: 4rem 3rem 1rem 3.5rem #f6f6f6;
+   
+}
+.one{
+    display: flex;
+    gap: 25px;
+    width: 50%;
+   margin-left: 40px;
+    
+}
+.two{
+    width: 50%;
+   display: flex;
+   gap: 30px;
+   justify-content: right;
+   margin-right: 50px;
+    text-align: right;
+}
+.DASBORED{
+   float: left;
+   width: 100%;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+   padding: 15px;
+   background-color: white;
+}
+tr{
+   
+    text-align: center;
+   height: 50px;
+}
+.heading{
+    background-color: white;
+}
+
+table{
+    border-collapse:collapse ;
+    width: 100%;
+}
+.rgt button {
+    background-color: aqua;
+    width: 96%;
+    height: 40px;
+    border-radius: 50%;
+  }
+  .lft p {
+    padding: 11px;
+    margin-left: 94px;
+    font-size: 16px;
+    box-shadow: 54px yellow;
+    border-radius: -4%;
+  }
+.tablea table tbody tr:nth-child(2n+1) {
+    background-color: #dadada;
+  }
+  .lft {
+    background-color: burlywood;
+    width: 32%;
+  }
+  a {
+    text-decoration: none;
+  }
+ 
+  .pagintion {
+    float: left;
+    width: 100%;
+    text-align: center;
+    padding: 15px;
+  }
+  .paged {
+    background-color: aqua;
+    padding: 10px;
+  }
+  .active{
+    background-color: red;
+  }
+  input[type=button] {
+    background-color: green;
+    border: none;
+    text-decoration: none;
+    color: white;
+    padding: 10px 10px;
+    margin: 10px 10px;
+    cursor: pointer;
+ }
+ input[type=text], select {
+    width: 85%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  input[type=email], select {
+    width: 85%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  input[type=submit] {
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  .middleform{
+    display: flex;
+    gap: 10px;
+  }
+ 
+  .middle input {
+    width: 100%;
+  }
+  .middle {
+    width: 40%;
+  }
+  .middle button {
+    width: 35%;
+    height: 40px;
+    margin-top: 9px;
+  }
